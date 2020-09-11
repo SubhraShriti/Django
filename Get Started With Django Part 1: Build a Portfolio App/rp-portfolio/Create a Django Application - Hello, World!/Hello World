@@ -1,0 +1,13 @@
+For this part of the tutorial, we’ll create an app called hello_world, which you’ll subsequently delete as its not necessary for our personal portfolio site.
+
+To create the app, run the following command:
+
+$ python manage.py startapp hello_world
+This will create another directory called hello_world with several files:
+
+__init__.py tells Python to treat the directory as a Python package.
+admin.py contains settings for the Django admin pages.
+apps.py contains settings for the application configuration.
+models.py contains a series of classes that Django’s ORM converts to database tables.
+tests.py contains test classes.
+views.py contains functions and classes that handle what data is displayed in the HTML templates.
