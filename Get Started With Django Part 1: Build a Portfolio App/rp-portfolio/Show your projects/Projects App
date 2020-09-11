@@ -1,0 +1,2 @@
+Showcase Your Projects
+Any web developer looking to create a portfolio needs a way to show off projects they have worked on. That’s what you’ll be building now. You’ll create another Django app called projects that will hold a series of sample projects that will be displayed to the user. Users can click on projects and see more information about your work.
